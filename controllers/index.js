@@ -1,9 +1,9 @@
-import userController from "./userController";
+import usersController from "./usersController";
 import postController from './postController';
 import commentController from './commentController';
 
 export {
-  userController,
+  usersController,
   postController,
   commentController,
 };

@@ -11,3 +11,5 @@ app.use(bodyParser.urlencoded({
 }))
 
 app.use('/', routes);
+
+export default app;
